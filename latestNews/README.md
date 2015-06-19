@@ -1,0 +1,1 @@
+This is a python script that parses the ANNOUNCEMENTS page of my school 's website so that I don't loose important announcements. I use this script in collaboration with a python wrapper library that I wrote to send push notifications to all of my devices.
